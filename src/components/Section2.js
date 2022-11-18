@@ -6,7 +6,7 @@ function Section2() {
             {/* 부트스트랩 클래스명 처럼 상수값은 중괄호를 써도 되고 안써도 됨.
             하지만 내가 만든 것과 만들어진 거의 차이를 보기 위해 일부러 씀. */}
             <td className={'w-70'}>
-                <div className="textBox">
+                <div className="textBox" style={{ paddingLeft: '130px' }}>
                     <span className="l-text">
                         우대조건 없이<br />
                         합리적인 예금과 적금<br />
