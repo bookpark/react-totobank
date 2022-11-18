@@ -1,6 +1,7 @@
 import { Component } from 'react';
 import { Table } from 'reactstrap';
 import Section0 from './Section0';
+import Section1 from './Section1';
 
 class Main extends Component {
     render() {
@@ -9,6 +10,7 @@ class Main extends Component {
                 <Table borderless size='sm'>
                     <tbody>
                         <Section0 />
+                        <Section1 />
                     </tbody>
                 </Table>
             </div>
