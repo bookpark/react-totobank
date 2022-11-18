@@ -17,7 +17,7 @@ class Section0 extends Component {
                             보내고, 받고, 모으고, 쓰는 <br />
                             당신의 모든 일이 바뀌고 있습니다.
                         </p>
-                        <img src={require('../img/main-bg3.png')} width='100%' />
+                        <img src={require('../img/main-bg3.png')} width='100%' alt='main-bg3'/>
                     </div>
                 </td>
             </tr>
